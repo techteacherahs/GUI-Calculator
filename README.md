@@ -20,6 +20,9 @@ Complete the user interface design started in class. Be sure the layout is logic
 Functionality should be coded in using the same basic concepts from your previous calculator but taking into consideration the differences for a calculator run from a user interface. This will likely be the longest portion of your program. Hint, use your display window as a tool that can store information temporarily and be used to retrieve information. Ask for a demo!
 
 ### Step 3
+Upload the program (and any related files if there are any) to your repository on Github
+
+### Step 4
 Complete the questions listed here in the assignment posted in Google Classroom
 
 >Question 1: Describe how your program collects user input correctly and stores for use in calculations. First, copy and paste the segment of code that shows user data being collected and stored. Then explain how it works.
