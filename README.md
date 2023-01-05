@@ -28,3 +28,5 @@ Complete the questions listed in the assignment posted in Google Classroom
 >Question 1: Describe how your program collects user input correctly and stores for use in calculations. First, copy and paste the segment of code that shows user data being collected and stored. Then explain how it works.
 
 >Question 2: During development you likely ran into one or two issues with programming. Copy and paste a segment of code that gave you issues. Describe the challenge you faced and how you debugged the issue.
+
+>Question 3: Give an example of how you manage user input to ensure that results are consistent with user expectations, based on physical calculator operations, and that errors are avoided.
